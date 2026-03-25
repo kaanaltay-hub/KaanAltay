@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write   # output branch'e push için gerekli
+
 jobs:
   build:
     runs-on: ubuntu-latest
