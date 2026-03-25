@@ -99,4 +99,4 @@ Passionate about transforming complex datasets into clear, actionable insights.
 ![GitHub Snake Animation](https://github.com/kaanaltay-hub/kaanaltay-hub/blob/output/github-contribution-grid-snake.svg)
 
 
-⭐️ *Danke, dass Sie mein Profil besucht haben!*
+⭐️ *Thank you for visiting my profile!*
