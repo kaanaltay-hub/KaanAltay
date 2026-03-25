@@ -8,9 +8,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # Node.js 24'e geçiş için
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4   # v3 yerine v4 kullan
+        uses: actions/checkout@v4   # Güncel sürüm
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3.2.0
@@ -21,7 +24,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push generated snake to the output branch
-        uses: crazy-max/ghaction-github-pages@v4   # v3.1.0 yerine v4 kullan
+        uses: crazy-max/ghaction-github-pages@v4   # Güncel sürüm
         with:
           target_branch: output
           build_dir: dist
