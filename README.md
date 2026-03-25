@@ -88,7 +88,7 @@ Passionate about transforming complex datasets into clear, actionable insights.
 
 | NLP | Generative AI | RAG | Recommendation | Computer Vision |
 |:--:|:--:|:--:|:--:|:--:|
-| <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/>| <img src="https://copilot.microsoft.com/th/id/BCO.67b0456b-e0fc-46c8-af59-77cf56555cc2.png" width="75"/>| <img src="https://copilot.microsoft.com/th/id/BCO.b5bef970-bf3b-4af3-8e1d-3ac502e2226f.png" width="85"/>| <img src="https://img.icons8.com/color/48/combo-chart.png" width="45"/>| <img src="images/icons/computer-vision.png" width="45"/> |
+| <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/>| <img src="https://copilot.microsoft.com/th/id/BCO.67b0456b-e0fc-46c8-af59-77cf56555cc2.png" width="105"/>| <img src="https://copilot.microsoft.com/th/id/BCO.b5bef970-bf3b-4af3-8e1d-3ac502e2226f.png" width="85"/>| <img src="https://img.icons8.com/color/48/combo-chart.png" width="45"/>| <img src="images/icons/computer-vision.png" width="45"/> |
 ----
 
 
