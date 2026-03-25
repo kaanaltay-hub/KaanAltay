@@ -95,7 +95,13 @@ Passionate about transforming complex datasets into clear, actionable insights.
 | NLP | Generative AI | RAG | Recommendation | Computer Vision |
 |:--:|:--:|:--:|:--:|:--:|
 | <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/><br/><strong>NLP</strong><br/>Text Analysis | <img src="https://copilot.microsoft.com/th/id/BCO.6b706360-3776-4118-8631-0f5b228bb324.png" width="55"/><br/><strong>Generative AI</strong><br/>LLMs | <img src="https://copilot.microsoft.com/th/id/BCO.b5bef970-bf3b-4af3-8e1d-3ac502e2226f.png" width="55"/><br/><strong>RAG</strong><br/>Vector Search | <img src="https://img.icons8.com/color/48/combo-chart.png" width="45"/><br/><strong>Recommendation</strong><br/>CF | <img src="images/icons/computer-vision.png" width="45"/><br/><strong>Computer Vision</strong><br/>Image Models |
+---
 
+## 🧠 Advanced Topics  
+
+| NLP | Generative AI | RAG | Recommendation | Computer Vision |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/><br/><strong>NLP</strong><br/>Text Analysis | <img src="https://copilot.microsoft.com/th/id/BCO.4b3560cb-1d31-4dd0-9420-7f2d39b06616.png" width="55"/><br/><strong>Generative AI</strong><br/>LLMs | <img src="https://copilot.microsoft.com/th/id/BCO.b5bef970-bf3b-4af3-8e1d-3ac502e2226f.png" width="55"/><br/><strong>RAG</strong><br/>Vector Search | <img src="https://img.icons8.com/color/48/combo-chart.png" width="45"/><br/><strong>Recommendation</strong><br/>CF | <img src="images/icons/computer-vision.png" width="45"/><br/><strong>Computer Vision</strong><br/>Image Models |
 ## 📈 GitHub Analytics  
 
 ![GitHub Snake Animation](https://github.com/Mst-KrgZ/Mst-KrgZ/blob/output/github-contribution-grid-snake.svg)
