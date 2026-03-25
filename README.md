@@ -96,7 +96,7 @@ Passionate about transforming complex datasets into clear, actionable insights.
 
 ## 📈 GitHub Analytics  
 
-![GitHub Snake Animation](https://github.com/Mst-KrgZ/Mst-KrgZ/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/kaanaltay-hub/kaanaltay-hub/blob/output/github-contribution-grid-snake.svg)
 
 
 ⭐️ *Danke, dass Sie mein Profil besucht haben!*
