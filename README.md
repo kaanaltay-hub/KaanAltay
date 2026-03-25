@@ -7,22 +7,22 @@
 </p>
 
 
-<h1 align="center">👋 Hallo! Ich bin <strong>Kaan Altay</strong></h1>
-<h3 align="center">Physiker mit Leidenschaft für Data Science, Analyse und Visualisierung</h3>
+<h1 align="center">👋 Hello! I am <strong>Kaan Altay</strong></h1>
+<h3 align="center">Statistician and Data Scientist with experience in analytics, machine learning, and visualization</h3>
 
 ---
 
-## 🧠 Über Mich  
-Data Scientist with a background in Physics.
-Experienced in Python, SQL, Machine Learning and data visualization.
-I build end-to-end data solutions — from data modeling and exploratory analysis to ML pipelines, deployment and interactive dashboards.
+## 🧠 About Me  
+Statistician and Data Scientist with expertise in data analysis, machine learning, and visualization.  
+Skilled in Python, SQL, and modern data science frameworks, I design and deploy end-to-end solutions — from data modeling and exploratory analysis to ML pipelines, deployment, and interactive dashboards.  
+Passionate about transforming complex datasets into clear, actionable insights.
 
 ---
 ## 🌐 Social Media (Click on logos😊)
 
 | LinkedIn | Kaggle | GitHub | Portfolio |
 |:--:|:--:|:--:|:--:|
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/mesut-karagoz/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40"/>](https://www.kaggle.com/mesutkaragz) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/Mst-KrgZ) | [<img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>](https://mesutkaragoz.com) |
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/kaan-altay1/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40"/>](https://www.kaggle.com/kaanaltay1) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/kaanaltay-hub) | [<img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>](https://kaanaltay.com) |
 
 ---
 
