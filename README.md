@@ -97,6 +97,13 @@ Passionate about transforming complex datasets into clear, actionable insights.
 |:--:|:--:|:--:|:--:|:--:|
 | 🧩 | 🤖 | 🔍 | 🎯 | 📷 |
 
+---
+## 🧠 Advanced Topics  
+
+| NLP | Generative AI | RAG (Retrieval-Augmented Generation) | Recommendation Systems | Computer Vision |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://img.icons8.com/color/48/nlp.png" width="50"/> | <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="50"/> | <img src="https://img.icons8.com/color/48/search.png" width="50"/> | <img src="https://img.icons8.com/color/48/recommendation.png" width="50"/> | <img src="https://img.icons8.com/color/48/camera.png" width="50"/> |
+
 ## 📈 GitHub Analytics  
 
 ![GitHub Snake Animation](https://github.com/Mst-KrgZ/Mst-KrgZ/blob/output/github-contribution-grid-snake.svg)
