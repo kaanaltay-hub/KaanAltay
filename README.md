@@ -1,4 +1,4 @@
-<!-- 🎯 Kaan Altau | Data Science & Analytics README -->
+<!-- 🎯 Kaan Altay | Data Science & Analytics README -->
 
 <!-- HEADER / BANNER -->
 
@@ -7,7 +7,7 @@
 </p>
 
 
-<h1 align="center">👋 Hallo! Ich bin <strong>Mesut Karagöz</strong></h1>
+<h1 align="center">👋 Hallo! Ich bin <strong>Kaan Altay</strong></h1>
 <h3 align="center">Physiker mit Leidenschaft für Data Science, Analyse und Visualisierung</h3>
 
 ---
