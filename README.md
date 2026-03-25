@@ -20,9 +20,9 @@ I build end-to-end data solutions — from data modeling and exploratory analysi
 ---
 ## 🌐 Social Media (Click on logos😊)
 
-| LinkedIn | Kaggle | GitHub | Portfolio | Tableau Public |
-|:--:|:--:|:--:|:--:|:--:|
-| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/mesut-karagoz/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40"/>](https://www.kaggle.com/mesutkaragz) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/Mst-KrgZ) | [<img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>](https://mesutkaragoz.com) | [<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40"/>](https://public.tableau.com/app/profile/mesut.karag.z/vizzes) |
+| LinkedIn | Kaggle | GitHub | Portfolio |
+|:--:|:--:|:--:|:--:|
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>](https://www.linkedin.com/in/mesut-karagoz/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40"/>](https://www.kaggle.com/mesutkaragz) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>](https://github.com/Mst-KrgZ) | [<img src="https://img.icons8.com/color/48/000000/domain.png" width="40"/>](https://mesutkaragoz.com) |
 
 ---
 
