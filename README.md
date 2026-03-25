@@ -87,7 +87,7 @@ Passionate about transforming complex datasets into clear, actionable insights.
 
 | NLP | Generative AI | RAG | Recommendation | Computer Vision |
 |:--:|:--:|:--:|:--:|:--:|
-| <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/><br/>Text Analysis | <img src="images/icons/generative-ai.png" width="45"/><br/>LLMs | <img src="images/icons/rag.png" width="45"/><br/>Vector Search | <img src="https://img.icons8.com/color/48/combo-chart.png" width="45"/><br/>CF | <img src="images/icons/computer-vision.png" width="45"/><br/>Image Models |
+| <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/><br/>Text Analysis | <img src="images/icons/generative-ai.png" width="45"/><br/>LLMs | <img src="https://copilot.microsoft.com/th/id/BCO.cb7f8f25-c1d1-460b-b2b2-63a5492a52a7.png" width="45"/><br/>Vector Search | <img src="https://img.icons8.com/color/48/combo-chart.png" width="45"/><br/>CF | <img src="images/icons/computer-vision.png" width="45"/><br/>Image Models |
 
 ## 📈 GitHub Analytics  
 
