@@ -87,7 +87,7 @@ Passionate about transforming complex datasets into clear, actionable insights.
 
 | NLP | Generative AI | RAG | Recommendation | Computer Vision |
 |:--:|:--:|:--:|:--:|:--:|
-| <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg](https://www.flaticon.com/free-icon/nlp_10306045)" width="40"/><br/>Text Analysis | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/><br/>LLMs | <img src="https://img.icons8.com/fluency/48/search.png" width="40"/><br/>Vector Search | <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="40"/><br/>CF | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/><br/>Image Models |
+| <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/><br/>Text Analysis | <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="45"/><br/>LLMs | <img src="https://img.icons8.com/color/48/search.png" width="45"/><br/>Vector Search | <img src="https://img.icons8.com/color/48/combo-chart.png" width="45"/><br/>CF | <img src="https://img.icons8.com/color/48/camera.png" width="45"/><br/>Image Models |
 
 ## 📈 GitHub Analytics  
 
