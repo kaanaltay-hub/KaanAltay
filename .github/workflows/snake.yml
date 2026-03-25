@@ -1,7 +1,7 @@
 name: Generate Snake Animation
 
 on:
-  schedule: # Her gece otomatik çalışır
+  schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -11,15 +11,12 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true   # Node.js 24'e geçiş için
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4   # Güncel sürüm
+        uses: actions/checkout@v4
 
       - name: Generate Snake SVG
-        uses: Platane/snk@v3.2.0
+        uses: Platane/snk@v3
         with:
           github_user_name: kaanaltay-hub
           outputs: |
