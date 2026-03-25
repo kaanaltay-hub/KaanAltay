@@ -26,34 +26,19 @@ Passionate about transforming complex datasets into clear, actionable insights.
 
 ---
 
-## 📊 Meine Projekte  
+## 📊 My Projects  
 
-### 🧩 Explorative Datenanalyse (EDA)
-- [Stroke Data Project – Kaggle](https://www.kaggle.com/code/mesutkaragz/storke-data-project)  
-- [Store Sharing Project – Kaggle](https://www.kaggle.com/code/mesutkaragz/store-sharing-project)  
+### 🧩 Exploratory Data Analysis (EDA)
+ 
 
-### 📈 Power BI Projekte
-- [Amazon Marketplace Analytics: Product Performance, Buy Box Proxy & Revenue Impact Analysis](https://github.com/Mst-KrgZ/Amazon-Marketplace-Analytics-Product-Performance-Buy-Box-Proxy-Revenue-Impact-Analysis)
-- [amazon-revenue-profit-cancel-churn-analysis](https://github.com/Mst-KrgZ/amazon-revenue-profit-cancel-churn-analysis)
-- [Pizza Restaurant Sales Dashboard](https://github.com/Mst-KrgZ/pizza-sales-powerbi-analysis)
-- [DataScience_JobSalaries](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/DataScience_JobSalaries)
-- [IBMdashboard](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/IBMdashboard)
-- [NetflixDashboard](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/NetflixDashboard)
-- [Olympics](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/Olympics)
-- [Pokemon_Stats](https://github.com/Mst-KrgZ/Power_BI_Projeckts/tree/main/Pokemon_Stats)
+### 📈 Power BI Projects
 
-### 📉 Tableau Projekte
-- [Airbnb in NYC Dashboard](https://public.tableau.com/app/profile/mesut.karag.z/viz/AirbnbinNYC_17506109078190/Story2)  
-- [Xbox Dataset Dashboard](https://public.tableau.com/app/profile/mesut.karag.z/viz/XboxDataset/Dashboard23)  
-- [Road Accident Dashboard](https://public.tableau.com/app/profile/mesut.karag.z/viz/RoadAccidentDashboard_17507719270400/Dashboard1)  
-- [London Bus Safety Dashboard](https://public.tableau.com/app/profile/mesut.karag.z/viz/DataVisualizationwithTableau-1_17480948729220/Dashboard1)  
-- [World History Analysis Dashboard](https://public.tableau.com/app/profile/mesut.karag.z/viz/Animasyon_17490582647970/WorldHistory)  
 
 ---
 
-## ⚙️ Fertigkeiten / Tech Stack  
+## ⚙️ Skills / Tech Stack  
 
-## 🚀 Data Science and Analytics Stack  
+## 🚀 Data Science and Analytics  
 
 | Python | SQL | Scikit-learn | TensorFlow | PyTorch |
 |:--:|:--:|:--:|:--:|:--:|
@@ -61,7 +46,7 @@ Passionate about transforming complex datasets into clear, actionable insights.
 
 ---
 
-## 📊 Data Visualization and Analysis  
+## 📊 Data Visualization and Business Intelligence  
 
 | Pandas | Numpy | Matplotlib | Seaborn | Plotly | Power BI | Tableau | MS Excel | Google Sheets |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
@@ -69,7 +54,7 @@ Passionate about transforming complex datasets into clear, actionable insights.
 
 ---
 
-## 🛠️ Development Environment and Tools  
+## 🛠️ Development and Deployment  
 
 | Jupyter | VS Code | Google Colab | Git | Docker | Anaconda |
 |:--:|:--:|:--:|:--:|:--:|:--:|
@@ -99,6 +84,13 @@ Passionate about transforming complex datasets into clear, actionable insights.
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> | <img src="https://img.icons8.com/color/48/000000/canva.png" width="40"/> |
 
 ---
+
+## 🧠 Advanced Topics  
+
+| NLP | Generative AI | RAG (Retrieval-Augmented Generation) | Recommendation Systems | Computer Vision |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://img.icons8.com/color/48/000000/nlp.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/search.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/recommendation.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/camera.png" width="40"/> |
+
 
 ## 📈 GitHub Analytics  
 
