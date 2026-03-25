@@ -83,32 +83,9 @@ Passionate about transforming complex datasets into clear, actionable insights.
 |:--:|:--:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> | <img src="https://img.icons8.com/color/48/000000/canva.png" width="40"/> |
 
----
-
-## 🧠 Advanced Topics  
-
-| NLP | Generative AI | RAG (Retrieval-Augmented Generation) | Recommendation Systems | Computer Vision |
+| NLP | Generative AI | RAG | Recommendation | Computer Vision |
 |:--:|:--:|:--:|:--:|:--:|
-| <img src="https://img.icons8.com/color/48/000000/nlp.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/search.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/recommendation.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/camera.png" width="40"/> |
----
-## 🧠 Advanced Topics  
-
-| NLP | Generative AI | RAG (Retrieval-Augmented Generation) | Recommendation Systems | Computer Vision |
-|:--:|:--:|:--:|:--:|:--:|
-| 🧩 | 🤖 | 🔍 | 🎯 | 📷 |
-
----
-## 🧠 Advanced Topics  
-
-| NLP | Generative AI | RAG (Retrieval-Augmented Generation) | Recommendation Systems | Computer Vision |
-|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://img.icons8.com/color/48/nlp.png" width="50"/> | <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="50"/> | <img src="https://img.icons8.com/color/48/search.png" width="50"/> | <img src="https://img.icons8.com/color/48/recommendation.png" width="50"/> | <img src="https://img.icons8.com/color/48/camera.png" width="50"/> |
----
-## 🧠 Advanced Topics  
-
-| NLP | Generative AI | RAG (Retrieval-Augmented Generation) | Recommendation Systems | Computer Vision |
-|:--:|:--:|:--:|:--:|:--:|
-| <img src="https://cdn-icons-png.flaticon.com/512/1048/1048943.png" width="50"/> | <img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="50"/> | <img src="https://cdn-icons-png.flaticon.com/512/3039/3039383.png" width="50"/> | <img src="https://cdn-icons-png.flaticon.com/512/1041/1041916.png" width="50"/> | <img src="https://cdn-icons-png.flaticon.com/512/1040/1040230.png" width="50"/> |
+| <img src="https://img.icons8.com/color/48/nlp.png" width="40"/><br/>Text Analysis | <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/><br/>LLMs | <img src="https://img.icons8.com/color/48/search.png" width="40"/><br/>Vector Search | <img src="https://img.icons8.com/color/48/recommendation.png" width="40"/><br/>CF | <img src="https://img.icons8.com/color/48/camera.png" width="40"/><br/>Image Models |
 
 ## 📈 GitHub Analytics  
 
