@@ -90,7 +90,12 @@ Passionate about transforming complex datasets into clear, actionable insights.
 | NLP | Generative AI | RAG (Retrieval-Augmented Generation) | Recommendation Systems | Computer Vision |
 |:--:|:--:|:--:|:--:|:--:|
 | <img src="https://img.icons8.com/color/48/000000/nlp.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/search.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/recommendation.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/camera.png" width="40"/> |
+---
+## 🧠 Advanced Topics  
 
+| NLP | Generative AI | RAG (Retrieval-Augmented Generation) | Recommendation Systems | Computer Vision |
+|:--:|:--:|:--:|:--:|:--:|
+| 🧩 | 🤖 | 🔍 | 🎯 | 📷 |
 
 ## 📈 GitHub Analytics  
 
