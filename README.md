@@ -82,7 +82,8 @@ Passionate about transforming complex datasets into clear, actionable insights.
 | Figma | Canva |
 |:--:|:--:|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> | <img src="https://img.icons8.com/color/48/000000/canva.png" width="40"/> |
-
+---
+## Advance Topics
 | NLP | Generative AI | RAG | Recommendation | Computer Vision |
 |:--:|:--:|:--:|:--:|:--:|
 | <img src="https://img.icons8.com/color/48/nlp.png" width="40"/><br/>Text Analysis | <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/><br/>LLMs | <img src="https://img.icons8.com/color/48/search.png" width="40"/><br/>Vector Search | <img src="https://img.icons8.com/color/48/recommendation.png" width="40"/><br/>CF | <img src="https://img.icons8.com/color/48/camera.png" width="40"/><br/>Image Models |
