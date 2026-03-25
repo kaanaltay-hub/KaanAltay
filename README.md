@@ -87,7 +87,7 @@ Passionate about transforming complex datasets into clear, actionable insights.
 
 | NLP | Generative AI | RAG | Recommendation | Computer Vision |
 |:--:|:--:|:--:|:--:|:--:|
-| <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/><br/>Text Analysis | <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="45"/><br/>LLMs | <img src="https://img.icons8.com/color/48/search.png" width="45"/><br/>Vector Search | <img src="https://img.icons8.com/color/48/combo-chart.png" width="45"/><br/>CF | <img src="https://img.icons8.com/color/48/camera.png" width="45"/><br/>Image Models |
+| <img src="https://cdn-icons-png.flaticon.com/512/10306/10306045.png" width="45"/><br/>Text Analysis | <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/artificial-intelligence-ai-icon.png" width="45"/><br/>LLMs | <img src="https://img.icons8.com/color/48/search.png" width="45"/><br/>Vector Search | <img src="https://img.icons8.com/color/48/combo-chart.png" width="45"/><br/>CF | <img src="https://img.icons8.com/color/48/camera.png" width="45"/><br/>Image Models |
 
 ## 📈 GitHub Analytics  
 
